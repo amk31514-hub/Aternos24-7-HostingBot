@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "WaterMC-S1.aternos.me60656",
+    "ip": "WaterMC-S1.aternos.me:",
     "port": 60656,
     "version": "",
     "try-creative": false
